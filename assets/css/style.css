@@ -1,0 +1,21 @@
+body {
+  	background: url('../images/pixarlogo.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.pixarBtn {
+	margin:2px;
+}
+
+#addPixar {
+	margin-top:5px;
+}
+
+.item {
+	float: left;
+	margin:10px;
+}
+
